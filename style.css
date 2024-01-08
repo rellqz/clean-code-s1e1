@@ -134,10 +134,6 @@
   align-items: center;
 }
 
-.task > * {
-  vertical-align: middle;
-}
-
 .task__input {
   margin: 0 10px;
 }
