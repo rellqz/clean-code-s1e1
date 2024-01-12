@@ -85,7 +85,8 @@
 
 /* Heading */
 .task__label-main,
-.task__label-name {
+.task__label-name,
+.incomplete__title {
   color: #333;
   font-weight: 700;
   font-size: 15px;
